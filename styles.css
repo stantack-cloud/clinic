@@ -162,5 +162,9 @@ header, main, footer {
   nav {
     justify-content: center;
   }
+
+  #prices li { 
+    color: #0b6e4f; font-weight: 700; 
+  }
 }
 
